@@ -23,6 +23,8 @@ However, future versions may include advertising features, which may collect non
 
 This data will be used only to support ads and improve user experience.
 
+-----------------------------------
+
 3. Third-Party Services
 Currently, the app does not use any third-party services or SDKs.
 In future versions, we may integrate Google AdMob or similar ad networks. These networks may collect limited, non-personal data as outlined in their own privacy policies.
