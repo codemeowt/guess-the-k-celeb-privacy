@@ -1,4 +1,5 @@
 Privacy Policy for "Guess the K-Celeb"
+
 Effective Date: 16/04/2025
 
 Guess the K-Celeb ("we", "our", or "us") respects your privacy. This Privacy Policy describes how we handle information when you use our mobile application.
