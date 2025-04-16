@@ -41,6 +41,7 @@ If data collection becomes necessary in the future (e.g., for ads), we will impl
 -----------------------------------
 
 5. Children’s Privacy
+
 This app is not directed to children under 3.
 We do not knowingly collect personal data from anyone, including children.
 
