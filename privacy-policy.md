@@ -8,57 +8,65 @@ Guess the K-Celeb ("we", "our", or "us") respects your privacy. This Privacy Pol
 
 **1. Information We Do Not Collect**
 
-We do not collect any personally identifiable information from users in the current version of the app.
+We do not collect any personally identifiable information (PII) from users.
 
-We do not require you to sign up, log in, or provide any personal details.
+You are not required to sign up, log in, or provide any personal details to use the app.
 
 -----------------------------------
 
 **2. Data Collected Automatically**
 
-In the current version of the app, we do not collect any data automatically.
+This app includes advertising features provided by third-party ad networks, such as Google AdMob.
 
-However, future versions may include advertising features, which may collect non-personal data such as:
+These networks may automatically collect non-personal data, including but not limited to:
 
-- Approximate location
+- Approximate location (based on IP)
 - Device information (e.g., Android version, device model)
-- Ad engagement data (e.g., clicks, impressions)
+- Ad interaction data (e.g., ad impressions, clicks)
 
-This data will be used only to support ads and improve user experience.
+This data is used to deliver relevant ads and improve ad performance.
 
 -----------------------------------
 
 **3. Third-Party Services**
 
-Currently, the app does not use any third-party services or SDKs.
-In future versions, we may integrate Google AdMob or similar ad networks. These networks may collect limited, non-personal data as outlined in their own privacy policies.
+We currently use the following third-party service:
 
-We will update this privacy policy when such changes occur.
+- Google AdMob – for displaying in-app advertisements
+- You can learn more about how Google uses data here:
+https://policies.google.com/technologies/ads
+
+These services may collect data as outlined in their respective privacy policies.
 
 -----------------------------------
 
 **4. Data Security**
 
-We do not store or share any user data.
+We do not collect or store any personal data ourselves.
 
-If data collection becomes necessary in the future (e.g., for ads), we will implement appropriate security measures to protect user information.
+All ad-related data handling is managed by the third-party providers (e.g., Google AdMob).
 
 -----------------------------------
 
 **5. Children’s Privacy**
 
-This app is not directed to children under 3.
-We do not knowingly collect personal data from anyone, including children.
+This app is not intended for children under the age of 13.
+
+We do not knowingly collect personal information from children.
+
+If you are a parent or guardian and believe your child has provided personal data, please contact us.
 
 -----------------------------------
 
 **7. Changes to This Privacy Policy**
 
-We may update this Privacy Policy as our app evolves. We encourage you to review this page periodically for any changes.
+We may update this Privacy Policy from time to time.
+
+Any changes will be posted in the updated version of the app and on the linked policy page.
 
 -----------------------------------
 
 **8. Contact Us**
 
-If you have any questions or concerns about this Privacy Policy, you can contact us at:
+If you have any questions or concerns about this Privacy Policy, feel free to reach out:
 📧 codemeowt@gmail.com
